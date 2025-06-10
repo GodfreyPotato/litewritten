@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300356117963",
+    "project_id": "litewritten",
+    "storage_bucket": "litewritten.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300356117963:android:57e8942e260fd9f0fa424e",
+        "android_client_info": {
+          "package_name": "com.example.litewritten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300356117963-2kpc8m52qdkv3vqedd459mvj97u24c7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvfvXfi1pbK9_VyGkO0DX2USPmfPO9W7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300356117963-2kpc8m52qdkv3vqedd459mvj97u24c7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
